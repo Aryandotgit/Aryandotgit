@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src=https://giphy.com/gifs/80s-synthwave-aesthetic-wKnqovL33x9in9ci6X.gif />
+### wassup 👋
+
 
 <!--
 **Aryandotgit/Aryandotgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
