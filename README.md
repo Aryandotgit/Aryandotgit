@@ -1,6 +1,6 @@
 ### wassup 👋
 
-<img src=209164.gif/>
+<img src=https://github.com/Aryandotgit/Aryandotgit/blob/main/209152.gif/>
 <!--
 **Aryandotgit/Aryandotgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
