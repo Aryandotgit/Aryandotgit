@@ -1,6 +1,7 @@
 ## wassup 👋
 
-<p align="center"><img src=https://github.com/Aryandotgit/Aryandotgit/blob/main/209152.gif/>
+<p align='center'><img src=https://github.com/Aryandotgit/Aryandotgit/blob/main/209152.gif/>
+<p align="center">
 
 <a href="https://github.com/Aryandotgit/Aryandotgit">
 <img align="left" src="https://github-readme-stats.vercel.app/api//?username=Aryandotgit&theme=dracula&count_private=true&show_icons=true&title_color=ff6e96&text_color=f8f8f2&include_all_commits=true" width=421px/>
