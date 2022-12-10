@@ -18,9 +18,9 @@
 ## ⛓️ Reach out:
   
 <p align='center'>
-<a href = "https://www.linkedin.com/in/aryan-raj-banerjee-a394061ba"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-<a href = "https://twitter.com/Aryantweets2"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href = "https://www.instagram.com/aryanr__/?hl=en"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/aryan-raj-banerjee-a394061ba"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
+<a href = "https://twitter.com/Aryantweets2"><img src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter"/></a>
+<a href = "https://www.instagram.com/zxeph_/"><img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram"/></a>
 </p>
 
 
