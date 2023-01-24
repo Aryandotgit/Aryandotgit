@@ -5,7 +5,7 @@
 <p align='center'><img src=https://github.com/Aryandotgit/Aryandotgit/blob/main/Hello.gif>
 
 
-[## Connect with me](https://linktr.ee/zxeph_)
+[Connect with me 🤝 ](https://linktr.ee/zxeph_)
   
 
 
