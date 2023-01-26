@@ -1,4 +1,4 @@
-# Hey, I'm Aryan! [let's connect 🤝 ](https://linktr.ee/zxeph_)
+# Hey, I'm Aryan! [let's connect 🤝 ](https://linktr.ee/aryanrb)
  
 <img src="https://komarev.com/ghpvc/?username=Aryandotgit">
 </a>
